@@ -1,6 +1,8 @@
 # Spiral-KDS
 The Spiral Kinetic Data Structure (KDS) project is used for the kinetic convex hull maintenance algorithm.
 
+The program is written with Borland Delphi 2010 or older versions. 
+
 The results are written in the separate files for different number of points. For example, “Results4.txt”, “Results8.txt”, ….
 
 The execution continues until the "OverheadIE" and “overheadEI” parameters for the last “convergency queue #” lines converged with the “convergency accuracy” parameter, both defined in the Setting form before moving the Spiral. After that, the execution restarts with double size of points automatically.
